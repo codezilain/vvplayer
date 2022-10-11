@@ -1,0 +1,3 @@
+rootProject.name = "VVPlayer"
+include ':app'
+include ':vvplayer'
